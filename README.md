@@ -8,7 +8,7 @@ I have seen many reddit posts asking which linux distributions is "best" for gam
 
 ## Lutris
 
-Lutris is some kind of open source Steam that helps with installing and running some games. Each game has its own install script, maintained by usually different people (as far as I understand).
+Lutris is an open source frontend/game launcher that helps with installing and running some games. Each game has its own install script, maintained by usually different people (as far as I understand).
 I have only used Lutris, to install and run Overwatch, I don't think there's room for improvement in here since Lutris is just here to run overwatch with a chosen Wine version and environment variables. Correct me if I am wrong.
 
 Some useful settings:
